@@ -281,7 +281,7 @@ img.img-full-width {
 }
 
 #nino-slider .carousel-inner {
-	height: 386px;
+	height: 240px;
 }
 
 #nino-slider .carousel-inner > .item {
@@ -560,7 +560,7 @@ section {
 		background: rgba(72, 72, 72, 0.70);
 	}
 	#nino-navbar .navbar-header {
-		padding-right: 80px;
+		padding-right: 50px;
 	}
 	#nino-navbar .navbar-nav > li > a {
 		padding: 10px 5px 5px;
